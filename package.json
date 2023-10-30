@@ -7,6 +7,6 @@
     "url": "https://github.com/pepabo/minne-flavor.git"
   },
   "dependencies": {
-    "@pepabo-inhouse/tokens": "^0.14.0"
+    "@pepabo-inhouse/tokens": "^0.15.0"
   }
 }
