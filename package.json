@@ -1,7 +1,7 @@
 {
   "name": "@pepabo-inhouse/minne-flavor",
   "description": "minne flavor for Inhouse Components Web",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/pepabo/minne-flavor.git"
